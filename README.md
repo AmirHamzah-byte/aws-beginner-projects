@@ -1,13 +1,13 @@
 # aws-beginner-projects
 # 📚 AWS Beginner Project Challenge (NextWork)
 
-This repository contains my hands-on work as part of the [NextWork AWS Challenge](https://www.nextwork.my/aws-challenge/). I document my learning day-by-day.
+This repository contains my hands-on work as part of the [NextWork AWS Challenge](https://www.nextwork.my/aws-challenge/). I document my learning up-to-date.
 
 ## 📅 Challenge Index
 
 | Day | Project                          | Status   |
 |-----|----------------------------------|----------|
-| 1   | [S3 Website Hosting](./https://docs.google.com/viewer?url=https://learn.nextwork.org/compassionate_lavender_swift_breadfruit/projects/aws-host-a-website-on-s3/document.pdf) | ✅ Completed |
+| 1   | [S3 Website Hosting](https://docs.google.com/viewer?url=https://learn.nextwork.org/compassionate_lavender_swift_breadfruit/projects/aws-host-a-website-on-s3/document.pdf) | ✅ Completed |
 | 2   | Visualize Data with QuickSight              | 🔜 Upcoming |
 | 3   | Cloud Security with AWS IAM | 🔜 Upcoming |
 
