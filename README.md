@@ -7,7 +7,7 @@ This repository contains my hands-on work as part of the [NextWork AWS Challenge
 
 | Day | Project                          | Status   |
 |-----|----------------------------------|----------|
-| 1   | [S3 Website Hosting](./Day1_S3WebsiteHosting) | ✅ Completed |
+| 1   | [S3 Website Hosting](./https://docs.google.com/viewer?url=https://learn.nextwork.org/compassionate_lavender_swift_breadfruit/projects/aws-host-a-website-on-s3/document.pdf) | ✅ Completed |
 | 2   | Visualize Data with QuickSight              | 🔜 Upcoming |
 | 3   | Cloud Security with AWS IAM | 🔜 Upcoming |
 
