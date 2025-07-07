@@ -1,4 +1,3 @@
-# aws-beginner-projects
 # 📚 AWS Beginner Project Challenge (NextWork)
 
 This repository contains my hands-on work as part of the [NextWork AWS Challenge](https://www.nextwork.my/aws-challenge/). I document my learning up-to-date.
